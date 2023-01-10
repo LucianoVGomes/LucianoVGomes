@@ -10,6 +10,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucianoVGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoVGomes&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
 #### Front-end
 
 <div style="display: inline_block"><br>
@@ -24,6 +25,8 @@
   <img align="center" alt="LVG-Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="LVG-Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
+  ####
+  
 <div> 
   <a href="https://www.instagram.com/luciano.vini1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:patosanta1000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
