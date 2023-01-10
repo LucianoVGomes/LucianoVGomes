@@ -1,7 +1,7 @@
 👨‍💻Oi, Eu sou o Luciano Vinicius
 
 - 👨‍🎓Graduando em Análise e Desenvolvimento de Sistemas (UniFTC) 
-- 🔍Me interesso por: Desenvolvimento Web Back-end e Front-end, Desenvolvimento Mobile.
+- 🔍Me interesso por: Desenvolvimento Web Back-end, Front-end e Desenvolvimento Mobile.
 - 🖥️Atualmente estou aprendendo mais sobre: Java Script, MYSQL.
 
 ## 🌟 Github Stats
