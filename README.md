@@ -2,13 +2,13 @@
 
 - 👨‍🎓Graduando em Análise e Desenvolvimento de Sistemas (UniFTC); 
 - 🔍Me interesso por: Desenvolvimento Web Back-end, Front-end e Desenvolvimento Mobile;
-- 🖥️Atualmente estou aprendendo mais sobre: Node.JS, Java Script e MYSQL.
+- 🖥️Atualmente estou aprendendo mais sobre: Node.JS, Java Script, TypeScript e MYSQL.
 
 ## 🌟 Github Stats
 <div>
   <a href="https://github.com/LucianoVGomes"><br>
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucianoVGomes&show_icons=true&theme=tokyonight"/>
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoVGomes&layout=compact&langs_count=8&layout=compact&theme=tokyonight"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucianoVGomes&show_icons=true&theme=dark"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoVGomes&layout=compact&langs_count=8&layout=compact&theme=dark"/>
 
   
 #### Front-end
