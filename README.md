@@ -7,8 +7,8 @@
 ## 🌟 Github Stats
 <div>
   <a href="https://github.com/LucianoVGomes"><br>
- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucianoVGomes&show_icons=true&theme=github_dark"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoVGomes&langs_count=8&layout=compact&theme=github_dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucianoVGomes&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoVGomes&langs_count=8&layout=compact&theme=github_dark"/>
 
   
 #### Front-end
