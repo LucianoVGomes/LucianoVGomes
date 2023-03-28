@@ -2,30 +2,30 @@
 
 - 👨‍🎓Graduando em Análise e Desenvolvimento de Sistemas (UniFTC); 
 - 🔍Me interesso por: Desenvolvimento Web Back-end, Front-end e Desenvolvimento Mobile;
-- 🖥️Atualmente estou aprendendo mais sobre: Node.JS, Java Script, TypeScript e MYSQL.
+- 🖥️Atualmente estou aprendendo mais sobre: NodeJS, Java Script, TypeScript e MYSQL.
 
 ## 🌟 Github Stats
 <div>
   <a href="https://github.com/LucianoVGomes"><br>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LucianoVGomes&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoVGomes&langs_count=8&layout=compact&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucianoVGomes&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoVGomes&layout=compact&theme=github_dark&hide_border=true"/>
 
   
 #### Front-end
   
 <div style="display: inline_block">
-  <img alt="LVG-Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="LVG-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="LVG-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </div>
 
  #### Back-end
 
 <div style="display: inline_block">
-  <img alt="LVG-Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="LVG-Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-   <img alt="LVG-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img alt="LVG-Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+ <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+   <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+    <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 
   #### Redes Sociais
