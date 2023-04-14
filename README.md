@@ -1,8 +1,8 @@
 👨‍💻Oi, Eu sou o Luciano Vinicius
 
-- 👨‍🎓Graduando em Análise e Desenvolvimento de Sistemas (UniFTC); 
+- 👨‍🎓Graduando em Análise e Desenvolvimento de Sistemas (UniFBV); 
 - 🔍Me interesso por: Desenvolvimento Web Back-end, Front-end e Desenvolvimento Mobile;
-- 🖥️Atualmente estou aprendendo mais sobre: NodeJS, Java Script e MYSQL.
+- 🖥️Atualmente estou aprendendo mais sobre: NodeJS, Express.js, TypeScript, Python.
 
 ## 🌟 Github Stats
 <div>
@@ -14,18 +14,20 @@
 #### Front-end
   
 <div style="display: inline_block">
-  <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+   <img align="center" alt="Luciano-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="Luciano-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="Luciano-Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
  #### Back-end
 
 <div style="display: inline_block">
- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-   <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-    <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+ <img align="center" alt="Luciano-Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <img align="center" alt="Luciano-Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+   <img align="center" alt="Luciano-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="Luciano-Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="center" alt="Luciano-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img align="center" alt="Paulo-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
   #### Redes Sociais
