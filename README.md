@@ -2,7 +2,7 @@
 
 - 👨‍🎓Graduando em Análise e Desenvolvimento de Sistemas (UniFBV); 
 - 🔍Me interesso por: Desenvolvimento Web Back-end, Front-end e Desenvolvimento Mobile;
-- 🖥️Atualmente estou aprendendo mais sobre: NodeJS, Express.js, TypeScript, Python.
+- 🖥️Atualmente estou aprendendo mais sobre: NodeJS, Express.js e MySQL.
 
 ## 🌟 Github Stats
 <div>
